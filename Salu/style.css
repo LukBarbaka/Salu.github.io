@@ -51,7 +51,7 @@ h1 {
     border: 2px solid #fff;
     padding: 10px;
     border-radius: 40px 15px;
-    box-shadow: 10px 10px #fff;
+    box-shadow: 5px 5px #fff;
     cursor: pointer;
     text-align: center; 
     text-decoration: none;
@@ -101,7 +101,7 @@ h1 {
     padding:1%;
     color: #fff;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    padding: 3%;
+    padding: ;
 
 }
 
